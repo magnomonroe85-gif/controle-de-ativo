@@ -1,0 +1,7 @@
+{
+  "name": "THS CONTROLE DE ATIVOS",
+  "description": "Sistema de gestão de ordens de serviço e fluxo de ativos de TI para a THS Tecnologias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
